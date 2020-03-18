@@ -7,12 +7,12 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Server {
+public class Server_1 {
     public static void main(String[] args) {
-        Server server = new Server();
+        Server_1 server = new Server_1();
     }
 
-    public Server() {
+    public Server_1() {
         ServerSocket server = null;
         Socket socket = null;
         DataInputStream in;

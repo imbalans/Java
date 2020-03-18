@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Client {
+public class Client_1 {
     public static void main(String[] args) {
         Socket socket = null;
         DataInputStream in;
